@@ -1,17 +1,25 @@
-# :computer: chess-system-java :space_invader:	
+# :joystick: chess-system-java :chess_pawn:
 _POO faz sentido quando desenvolvida na pratica!_
 
 No curso de programação orientada a objeto foi desenvolvido um tabuleiro de xadrez sem interface grafica, onde o usuario
 atraves do cmd ou do git bash (recomendado para conseguir diferenciar as cores) consegue atraves de coodernadas mover suas peças 
 pelo tabuleiro.
 
-![Game](/Imagens/chess.png)
+![Game](/src/chess.png)
 
-### -Para o desenvolvimento do jogo foram utilizado os seguintes conceitos:
+### - Para o desenvolvimento do jogo foram utilizado os seguintes conceitos: 💻
 * Estruturas Condicionais
 * Laços de Repetição
 * Vetores e Matrizes
 * Herança
 * Encapsulamento e Polimosfismo
 * Expressões lambdas
+
+## Como jogar: :joystick:
+```git
+git clone https://github.com/M4rc3l0-prog/chess-system-java.git
+
+Abra a pasta chess-system-java e em seguida abra a pasta bin.
+Como o botão direito clique em Git Bash here.
+Por fim digite: Java application/Program.
 
