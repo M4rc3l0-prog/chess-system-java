@@ -22,5 +22,7 @@ git clone https://github.com/M4rc3l0-prog/chess-system-java.git
 Abra a pasta chess-system-java e em seguida abra a pasta bin.
 Como o botão direito clique em Git Bash here.
 Por fim digite: Java application/Program.
+```
+
 
 ![Project Cress Game](https://media2.giphy.com/media/3o85xvnSxCKJZaSYmI/giphy.gif?cid=ecf05e47zs8m9s9ehywq5k61jg2m7gage6oax22xlnm6walm&rid=giphy.gif)
