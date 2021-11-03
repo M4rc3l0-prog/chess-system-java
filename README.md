@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# Chess Game
-## Fist project in Java
-
-In this project I seek to put into practice all the knowledge acquired so far in Java
-
-
-![Project Cress Game](https://media2.giphy.com/media/3o85xvnSxCKJZaSYmI/giphy.gif?cid=ecf05e47zs8m9s9ehywq5k61jg2m7gage6oax22xlnm6walm&rid=giphy.gif)
-=======
 # :joystick: chess-system-java :chess_pawn:
 _POO faz sentido quando desenvolvida na pratica!_
 
@@ -32,4 +23,4 @@ Abra a pasta chess-system-java e em seguida abra a pasta bin.
 Como o botão direito clique em Git Bash here.
 Por fim digite: Java application/Program.
 
->>>>>>> d3c950ca000ead822de49e6200ebfdb23ad342bc
+![Project Cress Game](https://media2.giphy.com/media/3o85xvnSxCKJZaSYmI/giphy.gif?cid=ecf05e47zs8m9s9ehywq5k61jg2m7gage6oax22xlnm6walm&rid=giphy.gif)
